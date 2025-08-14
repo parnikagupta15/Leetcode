@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/parnikagupta15/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/parnikagupta15/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/parnikagupta15/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parnikagupta15/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/parnikagupta15/Leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/parnikagupta15/Leetcode/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/parnikagupta15/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Greedy
 |  |
 | ------- |
